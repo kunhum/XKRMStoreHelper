@@ -1,0 +1,18 @@
+PODS:
+  - XKRMStoreHelper (1.0.0):
+    - XKRMStoreHelper/RMStore (= 1.0.0)
+  - XKRMStoreHelper/RMStore (1.0.0)
+
+DEPENDENCIES:
+  - XKRMStoreHelper (from `../`)
+
+EXTERNAL SOURCES:
+  XKRMStoreHelper:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XKRMStoreHelper: 4d4b4c2c7135a1b62d529a0b1241786595caf1e7
+
+PODFILE CHECKSUM: 6b279a5c3b517ad055d9c78e01717b0868af9d00
+
+COCOAPODS: 1.5.3

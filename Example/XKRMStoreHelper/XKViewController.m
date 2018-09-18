@@ -7,6 +7,7 @@
 //
 
 #import "XKViewController.h"
+#import <XKRMStoreHelper/XKRMStoreHelper.h>
 
 @interface XKViewController ()
 
@@ -18,6 +19,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
 }
 
 - (void)didReceiveMemoryWarning
