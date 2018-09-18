@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'XKRMStoreHelper_Example' do
+  pod 'XKRMStoreHelper', :path => '../'
+
+  target 'XKRMStoreHelper_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
